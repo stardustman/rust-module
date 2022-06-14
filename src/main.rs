@@ -9,4 +9,8 @@ fn main() {
     routes::user_route::print_user_route();
     config::print_config();
     println!("main");
+    let a = "abce";
+    println!("{:p}",a);
+    let b = a;
+    println!("{:p}",b);
 }

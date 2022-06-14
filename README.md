@@ -5,7 +5,7 @@
 4. 显示表明 functions 等的可见性
 5. pub
 6. use 缩短 `module path`
-7. toml 中的 dependencies 中的 moduel 是全局的
+7. toml 中的 dependencies 中的 module 是全局的
 
-# Refercens
+# References
 1. [https://www.sheshbabu.com/posts/rust-module-system/](https://www.sheshbabu.com/posts/rust-module-system/)
